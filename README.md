@@ -26,7 +26,7 @@ $ pip install -r requirements.txt
 $ bin/python main.py
 ```
 Программа покажет погоду в трех офисах
-```bash
+```text
 Лондон
 
      \  /       Переменная облачность
